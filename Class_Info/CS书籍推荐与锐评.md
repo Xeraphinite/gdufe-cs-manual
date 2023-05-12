@@ -10,17 +10,23 @@
 
 与 CS 相关的数学领域大致可以分为以下几种，作为本科生需要接触到的一些领域如下：
 
-1. 
+1. 高等数学（其实最好叫微积分，包括一元微积分和多元微积分）
+1. 线性代数
+1. 概率论
+1. 数理统计
+1. 信息论
 
 #### 推荐
 
+1. **线性代数**相关
+
+   Interactive Linear Algebra：https://www.textbooks.math.gatech.edu/ila/overview.html
 
 
 
 
 
-
-### Data Structure
+### Data Structure / Algorithm
 
 数据结构
 
@@ -50,7 +56,7 @@
 
 
 
-### 数据库原理/SQL
+### 数据库原理 / SQL
 
 
 
@@ -60,15 +66,11 @@
 
 ### Java
 
-
-
-
+不太了解，待测
 
 ### 前端
 
-
-
-
+不太了解，待写
 
 ### Machine Learning / Data Science 相关
 
