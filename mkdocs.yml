@@ -1,0 +1,8 @@
+site_name: Survive in GDUFE SOF
+
+nav:
+  - GDUFE 信息学院生存指南: index.md
+
+theme:
+    name: material
+    language: zh

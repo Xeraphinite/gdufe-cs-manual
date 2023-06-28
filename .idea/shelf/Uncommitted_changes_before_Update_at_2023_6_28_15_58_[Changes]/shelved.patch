@@ -1,0 +1,987 @@
+Index: GDUFE_Info/关于素拓.md
+===================================================================
+diff --git a/GDUFE_Info/关于素拓.md b/GDUFE_Info/关于素拓.md
+deleted file mode 100644
+--- a/GDUFE_Info/关于素拓.md	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
++++ /dev/null	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
+@@ -1,3 +0,0 @@
+-### 基本介绍
+-
+-素质拓展分，简称素拓分，在 GDUFE 不得不刷的分.
+\ No newline at end of file
+Index: GDUFE_Info/关于上课.md
+===================================================================
+diff --git a/GDUFE_Info/关于上课.md b/GDUFE_Info/关于上课.md
+deleted file mode 100644
+--- a/GDUFE_Info/关于上课.md	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
++++ /dev/null	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
+@@ -1,1 +0,0 @@
+-> 
+\ No newline at end of file
+Index: GDUFE_Info/速通毕业设计.md
+===================================================================
+diff --git a/GDUFE_Info/速通毕业设计.md b/GDUFE_Info/速通毕业设计.md
+deleted file mode 100644
+--- a/GDUFE_Info/速通毕业设计.md	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
++++ /dev/null	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
+@@ -1,3 +0,0 @@
+-### 介绍
+-
+-你的时间十分宝贵！请把精力花在更重要的事情上！
+\ No newline at end of file
+Index: Class_Info/CS书籍推荐与锐评.md
+===================================================================
+diff --git a/Class_Info/CS书籍推荐与锐评.md b/Class_Info/CS书籍推荐与锐评.md
+deleted file mode 100644
+--- a/Class_Info/CS书籍推荐与锐评.md	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
++++ /dev/null	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
+@@ -1,88 +0,0 @@
+-### 介绍
+-
+-适合 GDUFE 宝宝体质的 CS 相关书籍推荐！（图书馆均可借阅）
+-
+-对于我们 GDUFE 宝宝而言，大部分同学都有着最基础的数学基础和英语能力，但是也考虑到很多同学对于技术书籍的阅读还是比较摸不着头脑（洋文书更是罪加一等），因此对于大部分书籍分开了中英文版的推荐。
+-
+-当然，推荐是红榜，那么不推荐就是黑榜了，这些黑榜上的书如果没有必要（比如做必须完成的作业之外）就尽可能不要看了，读起来不仅仅是痛苦，而且你在痛苦中根本学不到任何东西——学习从来也不是”吃亏是福“的过程。
+-
+-### 数学
+-
+-与 CS 相关的数学领域大致可以分为以下几种，作为本科生需要接触到的一些领域如下：
+-
+-1. 高等数学（其实最好叫微积分，包括一元微积分和多元微积分）
+-1. 线性代数
+-1. 概率论
+-1. 数理统计
+-1. 信息论
+-
+-#### 推荐
+-
+-1. **线性代数**相关
+-
+-   Interactive Linear Algebra：https://www.textbooks.math.gatech.edu/ila/overview.html
+-
+-
+-
+-
+-
+-### Data Structure / Algorithm
+-
+-数据结构
+-
+-#### 推荐
+-
+-1. 《数据结构》（清华大学，邓俊辉）
+-2. 
+-
+-
+-
+-### 计算机系统
+-
+-
+-
+-#### 推荐
+-
+-1. 《深入理解计算机系统》
+-2. 
+-
+-### 计算机网络
+-
+-
+-
+-#### 推荐
+-
+-1. 《计算机网络》
+-
+-
+-
+-### 数据库原理 / SQL
+-
+-
+-
+-#### 推荐
+-
+-1. **SQL**，《》
+-
+-### Java
+-
+-不太了解，待测
+-
+-### 前端
+-
+-不太了解，待写
+-
+-### Machine Learning / Data Science 相关
+-
+-如果你有兴趣研究 Machine Learning 相关的内容，而又苦于没有人解答你的问题，可以联系邮箱 flandre-scarlet@student.gdufe.edu.cn ，我会尽自己所能回答你的问题！
+-
+-在本科阶段，由于我校稀烂的课程设计和教师水平（这里不包括肖银皓在内的一小部分优秀老师），并不推荐现在阅读大家熟知的西瓜书（周志华老师的那本《机器学习》），又或者是一些需要较深厚数学知识的书籍，接下来推荐的书籍将会从易到难地介绍一些 Machine Learning 领域中较为优秀的书籍，这些书籍大部分都是不涉及过于艰深的数学推导（当然，你至少得会求个偏导、做个矩阵乘法…如果这点知识都不会的话请回去恶补一下基础数学）以及 tricky 的 Python 用法的（你得知道一些最基础的 Python 语法、Jupyter Notebook 的使用等），因此可以放心食用！
+-
+-接下来就按阅读难度升序排列推荐一部分书籍：
+-
+-|        书名        |   作者   |  索书号   | 阅读难度 |     领域     |                         简单锐评一下                         |
+-| :----------------: | :------: | :-------: | :------: | :----------: | :----------------------------------------------------------: |
+-| 白话机器学习的数学 | 立石贤吾 | TP181/135 |  :star:  | 机器学习基础 | 阅读门槛非常低的数学书，有轻度代码，手把手推导各种公式！（Github） |
+-|                    |          |           |          |              |                                                              |
+-|                    |          |           |          |              |                                                              |
+-
+Index: Class_Info/老师推荐与锐评.md
+===================================================================
+diff --git a/Class_Info/老师推荐与锐评.md b/Class_Info/老师推荐与锐评.md
+deleted file mode 100644
+--- a/Class_Info/老师推荐与锐评.md	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
++++ /dev/null	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
+@@ -1,3 +0,0 @@
+-### 介绍
+-
+-信息学院有众多不同的老师以及
+\ No newline at end of file
+Index: GDUFE_Info/关于选课.md
+===================================================================
+diff --git a/GDUFE_Info/关于选课.md b/GDUFE_Info/关于选课.md
+deleted file mode 100644
+--- a/GDUFE_Info/关于选课.md	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
++++ /dev/null	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
+@@ -1,17 +0,0 @@
+-### 完全学分制介绍
+-
+-
+-
+-### 选课基本思路
+-
+-进入大学需要转变一些高中已有的思维，从选课
+-
+-在选课的时候需要尤其注意以下几点，这些决定了你接下来一个学期的学习方式与学习过程：
+-
+-1. **是否考勤/考勤方式**：这决定了你是否需要到课。在信息学院可以修到的大部分课程中，许多老师都会在 16 周的课中点 2-3 次名，有的老师会聚集在最后几周点，而有的老师会
+-2. **成绩构成**：这决定了你这学期应该如何学习这门课
+-3. **考查方式**：作为主修 CS
+-4. **教师水平与风格**：这决定了你是否需要听课。
+-
+-### 强(Ruo)智系统基本介绍
+-
+Index: GDUFE_Info/关于GPA、保研和考研.md
+===================================================================
+diff --git a/GDUFE_Info/关于GPA、保研和考研.md b/GDUFE_Info/关于GPA、保研和考研.md
+deleted file mode 100644
+--- a/GDUFE_Info/关于GPA、保研和考研.md	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
++++ /dev/null	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
+@@ -1,18 +0,0 @@
+-### GPA
+-
+-GPA（Grade Point Average, 俗称绩点），是所有新生必将遇到的一个词语，在广东财经大学中也是最没用的一个词语——至少对于以后需要从是代码行业
+-
+-
+-
+-### 保研
+-
+-不好意思，**广东财经大学没有保研！**广东财经大学没有保研！广东财经大学没有保研！
+-
+-因此，在广东财经大学，GPA（Grade Point Average, 俗称绩点）除了申奖学金几乎没有任何实际作用！如果你是大一新生，看到这里你应该再三考虑时间的分配，是用来狂刷毫无作用的绩点，还是用来巩固自己的专业课知识？
+-
+-### 考研
+-
+-根据 2023 年的内部数据，全学院考研上岸（包括调剂）的只有 20 个不到，而选择考研的同学虽然拿不到具体的数据，但是从身边统计学的角度来说，大致全学院 1/4 或者以上的人选择了考研的路，任重而道远啊！
+-
+-
+-
+Index: Exps/README.md
+===================================================================
+diff --git a/Exps/README.md b/Exps/README.md
+deleted file mode 100644
+--- a/Exps/README.md	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
++++ /dev/null	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
+@@ -1,10 +0,0 @@
+-**我们需要你的经验！**
+-
+-如果您满足：
+-
+-1. 上岸高贵的 CS 名校（最好是比 GDUFE 高级多一点的）
+-2. 拿到高端的 OFFER
+-3. 有强力代码经验
+-4. 卷 GPA 的老铁（总成绩前 5 % / 单科专业第一 / 满分 / 各核心科目高分选手）
+-
+-请将您的经验投稿至 cs_survive_gdufe@outlive.com, 或者直接投稿
+\ No newline at end of file
+Index: GDUFE_Info/关于就业.md
+===================================================================
+diff --git a/GDUFE_Info/关于就业.md b/GDUFE_Info/关于就业.md
+deleted file mode 100644
+--- a/GDUFE_Info/关于就业.md	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
++++ /dev/null	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
+@@ -1,3 +0,0 @@
+-### 介绍
+-
+-大环境有目共睹，现在我们明面上能查到的数据
+\ No newline at end of file
+Index: Class_Info/网络资源推荐与锐评.md
+===================================================================
+diff --git a/Class_Info/网络资源推荐与锐评.md b/Class_Info/网络资源推荐与锐评.md
+deleted file mode 100644
+--- a/Class_Info/网络资源推荐与锐评.md	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
++++ /dev/null	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
+@@ -1,3 +0,0 @@
+-### 介绍
+-
+-关于 CS 的网络资源可以说是浩如烟海，在这里推荐一部分相当优秀的网络资源，我也或多或少地从这些资源中获得了帮助，再次对于这些有着伟大精神的人表示感谢！
+\ No newline at end of file
+Index: Class_Info/ACM.md
+===================================================================
+diff --git a/Class_Info/ACM.md b/Class_Info/ACM.md
+deleted file mode 100644
+--- a/Class_Info/ACM.md	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
++++ /dev/null	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
+@@ -1,3 +0,0 @@
+-### 我校 ACM 基本介绍
+-
+-野鸡社团。
+\ No newline at end of file
+Index: GDUFE_Info/关于奖学金.md
+===================================================================
+diff --git a/GDUFE_Info/关于奖学金.md b/GDUFE_Info/关于奖学金.md
+deleted file mode 100644
+--- a/GDUFE_Info/关于奖学金.md	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
++++ /dev/null	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
+@@ -1,37 +0,0 @@
+-如果你有志于申请各类奖学金的话，看这篇文章就够了！
+-
+-### 基本介绍
+-
+-作为妄想成为大湾区一流的广东财经大学，奖学金相比起真正的大湾区一流高校可以说是相当少。我校最主要的奖学金可以分为两种：
+-
+-1. 校内奖学金
+-
+-   包括各类特色奖、学业奖、院长奖学金、校长奖学金提名奖、校长奖学金，分为四个
+-
+-2. 国家奖学金
+-
+-   根据前一年的含金量而定，自行申请，封顶 8,000 人民币
+-
+-除此之外，还有贫困助学金、又或者是其他相关奖学金。
+-
+-### 校内奖学金介绍
+-
+-#### 各类特色奖
+-
+-当
+-
+-#### 学业奖学金
+-
+-
+-
+-#### 院长奖学金
+-
+-
+-
+-#### 校长奖学金
+-
+-
+-
+-### 经验之谈
+-
+-要对自己**有自信**！就算你拿的奖是一坨大便，甚至p都没拿，只要你
+\ No newline at end of file
+Index: Class_Info/社团推荐与锐评.md
+===================================================================
+diff --git a/Class_Info/社团推荐与锐评.md b/Class_Info/社团推荐与锐评.md
+deleted file mode 100644
+--- a/Class_Info/社团推荐与锐评.md	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
++++ /dev/null	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
+@@ -1,5 +0,0 @@
+-### ACM
+-
+-**推荐指数：T0**
+-
+-强烈推荐！强烈推荐！强烈推荐！
+\ No newline at end of file
+Index: Class_Info/README.md
+===================================================================
+diff --git a/Class_Info/README.md b/Class_Info/README.md
+deleted file mode 100644
+--- a/Class_Info/README.md	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
++++ /dev/null	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
+@@ -1,15 +0,0 @@
+-### 介绍
+-
+-请**尽可能介绍自己的主观经验**！需要您的帮助！
+-
+-当锐评老师或者课程的时候，可以包含以下的信息：
+-
+-1. 老师名字、所上课程、时间、线上/线下/混合（必要）
+-2. 当您评论单门课程的时候，最好附上您上的课以及成绩，如果您已经学习过相关知识也请注明
+-3. 可以从老师的声音（是否刺耳）、性格、选用的教材、上课习惯（比如**是否考勤**、**资料质量**等）、成绩构成等各个方面叙述.
+-
+-可以参考下面的例子来阐述您的上课经验：
+-
+-> **袁志斌** 老师, 离散数学, 2020 年秋, 100/100
+->
+-> 光头, 很好认, 会用 LaTeX 让你写东西, 推荐的书都不错看！就是上课无关的废话很多TT
+\ No newline at end of file
+Index: GDUFE_Info/广州校区吃饭指南.md
+===================================================================
+diff --git a/GDUFE_Info/广州校区吃饭指南.md b/GDUFE_Info/广州校区吃饭指南.md
+deleted file mode 100644
+--- a/GDUFE_Info/广州校区吃饭指南.md	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
++++ /dev/null	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
+@@ -1,3 +0,0 @@
+-### 介绍
+-
+-广州校区最好吃的饭堂是**麦当劳**！
+Index: GDUFE_Info/关于图书馆与借书.md
+===================================================================
+diff --git a/GDUFE_Info/关于图书馆与借书.md b/GDUFE_Info/关于图书馆与借书.md
+deleted file mode 100644
+--- a/GDUFE_Info/关于图书馆与借书.md	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
++++ /dev/null	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
+@@ -1,44 +0,0 @@
+-### 简介
+-
+-GDUFE 的两个校区都分别设有图书馆, 其中广州校区的图书馆形如骨灰盒, 也在烂尾楼旁边, 因此也被称为烂尾楼骨灰盒图书馆.
+-
+-### 企业号使用
+-
+-
+-
+-### General Finding books
+-
+-当你有一本想看的书时, 可以在广东财经大学企业号搜索：
+-
+-1. 当你搜索的时候, 搜索书名/作者名（中文的常见译名，洋文原名有时搜索不到）即可.
+-2. 获取索书号
+-3. 找到相关的
+-
+-### 找书例子
+-
+-接下来介绍五个关于 GDUFE 找书的例子，应该能 cover 到大部分场景.
+-
+-如果你是 GDUFE 的小于（不是于海峰），你需要找以下五本书：
+-
+-- **《深入理解计算机系统（原书第二版）》**，我财计算机系统与组成原理使用的书籍，好书，但建议除了过考试之外还是用第三版
+-- **《线性代数的几何意义》**，好书，烤饼的时候看完了，好书
+-- 《》
+-- 《》
+-- **《鼠疫》**，加缪著，帅哥。
+-
+-### CS 相关书籍所在地
+-
+-广州校区（图片摄于 2023 年 5 月）：
+-
+-1. 图书馆 5 楼（绝大部分书）
+-2. 图书馆 2 楼近北门门口书架（新书）
+-3. 图书馆 2 楼（教材）
+-4. 其他地方（有一部分书并不会算在 CS 中，但却和 CS 相关，比如 NLP 的有一本书籍就放在四楼了TT，当时找了好久，还有一部分原版书是放在六楼的）
+-
+-佛山校区：没人在，待更新，我印象中好像是顶楼下面一层，but i forgot TT
+-
+-### 手留余香
+-
+-图书馆的老师几乎都挺好的！有礼貌一点她们并不会对你做什么。
+-
+-如果你需要找的书在图书馆中并没有，并且也没有别人添加条目，你可以申请购入（当然，这个时间可能你毕业前都看不到惹，不需要每天都上去check进度）
+\ No newline at end of file
+Index: Exps/exp1_19计实.md
+===================================================================
+diff --git a/Exps/exp1_19计实.md b/Exps/exp1_19计实.md
+deleted file mode 100644
+--- a/Exps/exp1_19计实.md	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
++++ /dev/null	(revision fafafdf282d6e73f49b1fb4ce5aecced035082ac)
+@@ -1,4 +0,0 @@
+-### 基础介绍
+-
+-19 级毕业生
+-
+Index: docs/sof_student_experience/网络资源介绍与搜寻基础.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/sof_student_experience/网络资源介绍与搜寻基础.md b/docs/sof_student_experience/网络资源介绍与搜寻基础.md
+new file mode 100644
+--- /dev/null	(date 1684742244964)
++++ b/docs/sof_student_experience/网络资源介绍与搜寻基础.md	(date 1684742244964)
+@@ -0,0 +1,3 @@
++### 介绍
++
++本次
+\ No newline at end of file
+Index: .github/workflows/ci.yml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.github/workflows/ci.yml b/.github/workflows/ci.yml
+new file mode 100644
+--- /dev/null	(date 1687938988352)
++++ b/.github/workflows/ci.yml	(date 1687938988352)
+@@ -0,0 +1,25 @@
++name: ci
++on:
++  push:
++    branches:
++      - master
++      - main
++permissions:
++  contents: write
++jobs:
++  deploy:
++    runs-on: ubuntu-latest
++    steps:
++      - uses: actions/checkout@v3
++      - uses: actions/setup-python@v4
++        with:
++          python-version: 3.x
++      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
++      - uses: actions/cache@v3
++        with:
++          key: mkdocs-material-${{ env.cache_id }}
++          path: .cache
++          restore-keys: |
++            mkdocs-material-
++      - run: pip install mkdocs-material
++      - run: mkdocs gh-deploy --force
+Index: docs/gdufe_infomation/关于GPA、保研和考研.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/gdufe_infomation/关于GPA、保研和考研.md b/docs/gdufe_infomation/关于GPA、保研和考研.md
+new file mode 100644
+--- /dev/null	(date 1687938988462)
++++ b/docs/gdufe_infomation/关于GPA、保研和考研.md	(date 1687938988462)
+@@ -0,0 +1,18 @@
++### GPA
++
++GPA（Grade Point Average, 俗称绩点），是所有新生必将遇到的一个词语，在广东财经大学中也是最没用的一个词语——至少对于以后需要从是代码行业
++
++
++
++### 保研
++
++不好意思，**广东财经大学没有保研！**广东财经大学没有保研！广东财经大学没有保研！
++
++因此，在广东财经大学，GPA（Grade Point Average, 俗称绩点）除了申奖学金几乎没有任何实际作用！如果你是大一新生，看到这里你应该再三考虑时间的分配，是用来狂刷毫无作用的绩点，还是用来巩固自己的专业课知识？
++
++### 考研
++
++根据 2023 年的内部数据，全学院考研上岸（包括调剂）的只有 20 个不到，而选择考研的同学虽然拿不到具体的数据，但是从身边统计学的角度来说，大致全学院 1/4 或者以上的人选择了考研的路，任重而道远啊！
++
++
++
+Index: docs/gdufe_infomation/广州校区吃饭指南.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/gdufe_infomation/广州校区吃饭指南.md b/docs/gdufe_infomation/广州校区吃饭指南.md
+new file mode 100644
+--- /dev/null	(date 1687938988465)
++++ b/docs/gdufe_infomation/广州校区吃饭指南.md	(date 1687938988465)
+@@ -0,0 +1,3 @@
++### 介绍
++
++广州校区最好吃的饭堂是**麦当劳**！
+Index: docs/gdufe_infomation/关于图书馆与借书.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/gdufe_infomation/关于图书馆与借书.md b/docs/gdufe_infomation/关于图书馆与借书.md
+new file mode 100644
+--- /dev/null	(date 1687938988470)
++++ b/docs/gdufe_infomation/关于图书馆与借书.md	(date 1687938988470)
+@@ -0,0 +1,44 @@
++### 简介
++
++GDUFE 的两个校区都分别设有图书馆, 其中广州校区的图书馆形如骨灰盒, 也在烂尾楼旁边, 因此也被称为烂尾楼骨灰盒图书馆.
++
++### 企业号使用
++
++
++
++### General Finding books
++
++当你有一本想看的书时, 可以在广东财经大学企业号搜索：
++
++1. 当你搜索的时候, 搜索书名/作者名（中文的常见译名，洋文原名有时搜索不到）即可.
++2. 获取索书号
++3. 找到相关的
++
++### 找书例子
++
++接下来介绍五个关于 GDUFE 找书的例子，应该能 cover 到大部分场景.
++
++如果你是 GDUFE 的小于（不是于海峰），你需要找以下五本书：
++
++- **《深入理解计算机系统（原书第二版）》**，我财计算机系统与组成原理使用的书籍，好书，但建议除了过考试之外还是用第三版
++- **《线性代数的几何意义》**，好书，烤饼的时候看完了，好书
++- 《》
++- 《》
++- **《鼠疫》**，加缪著，帅哥。
++
++### CS 相关书籍所在地
++
++广州校区（图片摄于 2023 年 5 月）：
++
++1. 图书馆 5 楼（绝大部分书）
++2. 图书馆 2 楼近北门门口书架（新书）
++3. 图书馆 2 楼（教材）
++4. 其他地方（有一部分书并不会算在 CS 中，但却和 CS 相关，比如 NLP 的有一本书籍就放在四楼了TT，当时找了好久，还有一部分原版书是放在六楼的）
++
++佛山校区：没人在，待更新，我印象中好像是顶楼下面一层，but i forgot TT
++
++### 手留余香
++
++图书馆的老师几乎都挺好的！有礼貌一点她们并不会对你做什么。
++
++如果你需要找的书在图书馆中并没有，并且也没有别人添加条目，你可以申请购入（当然，这个时间可能你毕业前都看不到惹，不需要每天都上去check进度）
+\ No newline at end of file
+Index: docs/gdufe_infomation/速通毕业设计.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/gdufe_infomation/速通毕业设计.md b/docs/gdufe_infomation/速通毕业设计.md
+new file mode 100644
+--- /dev/null	(date 1687938988478)
++++ b/docs/gdufe_infomation/速通毕业设计.md	(date 1687938988478)
+@@ -0,0 +1,7 @@
++你的时间十分宝贵！请把精力花在更重要的事情（比如找工作、考研等）上！
++
++### Word
++
++众所周知，广东财经大学拥有着全国最混乱的系统，因此，
++
++### 
+Index: docs/gdufe_infomation/关于奖学金.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/gdufe_infomation/关于奖学金.md b/docs/gdufe_infomation/关于奖学金.md
+new file mode 100644
+--- /dev/null	(date 1687938988490)
++++ b/docs/gdufe_infomation/关于奖学金.md	(date 1687938988490)
+@@ -0,0 +1,37 @@
++如果你有志于申请各类奖学金的话，看这篇文章就够了！
++
++### 基本介绍
++
++作为妄想成为大湾区一流的广东财经大学，奖学金相比起真正的大湾区一流高校可以说是相当少。我校最主要的奖学金可以分为两种：
++
++1. 校内奖学金
++
++   包括各类特色奖、学业奖、院长奖学金、校长奖学金提名奖、校长奖学金，分为四个
++
++2. 国家奖学金
++
++   根据前一年的含金量而定，自行申请，封顶 8,000 人民币
++
++除此之外，还有贫困助学金、又或者是其他相关奖学金。
++
++### 校内奖学金介绍
++
++#### 各类特色奖
++
++当
++
++#### 学业奖学金
++
++
++
++#### 院长奖学金
++
++
++
++#### 校长奖学金
++
++
++
++### 经验之谈
++
++要对自己**有自信**！就算你拿的奖是一坨大便，甚至p都没拿，只要你
+\ No newline at end of file
+Index: docs/gdufe_infomation/关于选课.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/gdufe_infomation/关于选课.md b/docs/gdufe_infomation/关于选课.md
+new file mode 100644
+--- /dev/null	(date 1687938988493)
++++ b/docs/gdufe_infomation/关于选课.md	(date 1687938988493)
+@@ -0,0 +1,17 @@
++### 完全学分制介绍
++
++
++
++### 选课基本思路
++
++进入大学需要转变一些高中已有的思维，从选课
++
++在选课的时候需要尤其注意以下几点，这些决定了你接下来一个学期的学习方式与学习过程：
++
++1. **是否考勤/考勤方式**：这决定了你是否需要到课。在信息学院可以修到的大部分课程中，许多老师都会在 16 周的课中点 2-3 次名，有的老师会聚集在最后几周点，而有的老师会
++2. **成绩构成**：这决定了你这学期应该如何学习这门课
++3. **考查方式**：作为主修 CS
++4. **教师水平与风格**：这决定了你是否需要听课。
++
++### 强(Ruo)智系统基本介绍
++
+Index: docs/gdufe_infomation/关于素拓.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/gdufe_infomation/关于素拓.md b/docs/gdufe_infomation/关于素拓.md
+new file mode 100644
+--- /dev/null	(date 1687938988497)
++++ b/docs/gdufe_infomation/关于素拓.md	(date 1687938988497)
+@@ -0,0 +1,3 @@
++### 基本介绍
++
++素质拓展分，简称素拓分，在 GDUFE 不得不刷的分.
+\ No newline at end of file
+Index: mkdocs.yml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/mkdocs.yml b/mkdocs.yml
+new file mode 100644
+--- /dev/null	(date 1687936662142)
++++ b/mkdocs.yml	(date 1687936662142)
+@@ -0,0 +1,38 @@
++# Project Information
++site_name: 广财大信息学院生存指南
++
++# Contents
++nav:
++  - 简介: index.md
++  - 信息学院生存指南:
++      - ACM 介绍: everything_everywhere_all_at_sof/ACM.md
++      - 老师推荐与锐评: everything_everywhere_all_at_sof/老师推荐与锐评.md
++      - 社团推荐与锐评: everything_everywhere_all_at_sof/社团推荐与锐评.md
++      - CS书籍推荐与锐评: everything_everywhere_all_at_sof/CS书籍推荐与锐评.md
++      - 社团推荐与锐评: everything_everywhere_all_at_sof/社团推荐与锐评.md
++
++# Theme & Configurations
++theme:
++  name: material
++  language: 'zh'
++  palette:
++    # Palette toggle for light mode
++    - media: "(prefers-color-scheme: light)"
++      scheme: default
++      primary: white
++      accent: red
++      toggle:
++        icon: material/weather-sunny
++        name: Switch to dark mode
++
++    # Palette toggle for dark mode
++    - media: "(prefers-color-scheme: dark)"
++      scheme: slate
++      primary: blue
++      accent: blue
++      toggle:
++        icon: material/weather-night
++        name: Switch to light mode
++      font:
++        text: 'Fira Sans'
++        code: 'Fira Mono'
+Index: docs/gdufe_infomation/关于就业.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/gdufe_infomation/关于就业.md b/docs/gdufe_infomation/关于就业.md
+new file mode 100644
+--- /dev/null	(date 1687938988501)
++++ b/docs/gdufe_infomation/关于就业.md	(date 1687938988501)
+@@ -0,0 +1,3 @@
++### 介绍
++
++大环境有目共睹，现在我们明面上能查到的数据
+\ No newline at end of file
+Index: docs/index.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/index.md b/docs/index.md
+new file mode 100644
+--- /dev/null	(date 1687934186059)
++++ b/docs/index.md	(date 1687934186059)
+@@ -0,0 +1,21 @@
++# Survive_CS_GDUFE
++
++**Inspired By [SurviveSJTUManual](https://survivesjtu.gitbook.io/survivesjtumanual/)**
++
++当你选择来广东财经大学读 **CS** 的时候, 恭喜你, 你正式踏上了 99% 的技术需要自学的不归路.
++
++如果你是大一的本科生, 当你看到这个 Repository 的时候, 相信你已经有了最基本的信息检索能力（你甚至会用 GitHub 了, 赢过 80% GDUFE 人！）, 但是如果你苦于在网络上无法找到一些和 GDUFE 这个学历相匹配的经验，那么这个仓库或许会对你有所帮助.
++
++而如果你是我校研究生, 或者你已经大二、大三，甚至是大四准备毕业了，也欢迎你为这个仓库进行贡献！
++
++### 序言
++
++从 2019 年入学开始的四年是我后悔的四年——在校期间, 我的选择似乎是完美避开了所有正确选项, 不管是从选课、奖学金、社团、素拓，又或者是住宿，总是处于一个“差一点”的遗憾中, 有的可能只是运气使然, 而更多的时候则是一种信息不对等产生的结果. 这四年的“差一点”，以及我毫无建树的本科生涯是我做这个项目的开端.
++
++在广东财经大学这样一个以会计、法学等专业为主导，而且学校资源（尤其是明面上可见的经费）又每况愈下的大背景下，我们唯有自救，也只能自救。
++
++从高考到现在，我们中的大部分人都或多或少有一些学习经验.
++
++### TODO
++
++- [ ]  TT
+\ No newline at end of file
+Index: docs/gdufe_infomation/关于上课.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/gdufe_infomation/关于上课.md b/docs/gdufe_infomation/关于上课.md
+new file mode 100644
+--- /dev/null	(date 1687938988510)
++++ b/docs/gdufe_infomation/关于上课.md	(date 1687938988510)
+@@ -0,0 +1,1 @@
++> 
+\ No newline at end of file
+Index: docs/everything_everywhere_all_at_sof/老师推荐与锐评.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/everything_everywhere_all_at_sof/老师推荐与锐评.md b/docs/everything_everywhere_all_at_sof/老师推荐与锐评.md
+new file mode 100644
+--- /dev/null	(date 1687938988514)
++++ b/docs/everything_everywhere_all_at_sof/老师推荐与锐评.md	(date 1687938988514)
+@@ -0,0 +1,3 @@
++### 介绍
++
++信息学院有众多不同的老师以及
+\ No newline at end of file
+Index: docs/everything_everywhere_all_at_sof/ACM.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/everything_everywhere_all_at_sof/ACM.md b/docs/everything_everywhere_all_at_sof/ACM.md
+new file mode 100644
+--- /dev/null	(date 1687938988520)
++++ b/docs/everything_everywhere_all_at_sof/ACM.md	(date 1687938988520)
+@@ -0,0 +1,3 @@
++### 我校 ACM 基本介绍
++
++野鸡社团。
+\ No newline at end of file
+Index: docs/everything_everywhere_all_at_sof/网络资源推荐与锐评.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/everything_everywhere_all_at_sof/网络资源推荐与锐评.md b/docs/everything_everywhere_all_at_sof/网络资源推荐与锐评.md
+new file mode 100644
+--- /dev/null	(date 1687938988524)
++++ b/docs/everything_everywhere_all_at_sof/网络资源推荐与锐评.md	(date 1687938988524)
+@@ -0,0 +1,3 @@
++### 介绍
++
++关于 CS 的网络资源可以说是浩如烟海，在这里推荐一部分相当优秀的网络资源，我也或多或少地从这些资源中获得了帮助，再次对于这些有着伟大精神的人表示感谢！
+\ No newline at end of file
+Index: docs/everything_everywhere_all_at_sof/index.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/everything_everywhere_all_at_sof/index.md b/docs/everything_everywhere_all_at_sof/index.md
+new file mode 100644
+--- /dev/null	(date 1687938988530)
++++ b/docs/everything_everywhere_all_at_sof/index.md	(date 1687938988530)
+@@ -0,0 +1,15 @@
++### 介绍
++
++请**尽可能介绍自己的主观经验**！需要您的帮助！
++
++当锐评老师或者课程的时候，可以包含以下的信息：
++
++1. 老师名字、所上课程、时间、线上/线下/混合（必要）
++2. 当您评论单门课程的时候，最好附上您上的课以及成绩，如果您已经学习过相关知识也请注明
++3. 可以从老师的声音（是否刺耳）、性格、选用的教材、上课习惯（比如**是否考勤**、**资料质量**等）、成绩构成等各个方面叙述.
++
++可以参考下面的例子来阐述您的上课经验：
++
++> **袁志斌** 老师, 离散数学, 2020 年秋, 100/100
++>
++> 光头, 很好认, 会用 LaTeX 让你写东西, 推荐的书都不错看！就是上课无关的废话很多TT
+\ No newline at end of file
+Index: docs/everything_everywhere_all_at_sof/社团推荐与锐评.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/everything_everywhere_all_at_sof/社团推荐与锐评.md b/docs/everything_everywhere_all_at_sof/社团推荐与锐评.md
+new file mode 100644
+--- /dev/null	(date 1687938988535)
++++ b/docs/everything_everywhere_all_at_sof/社团推荐与锐评.md	(date 1687938988535)
+@@ -0,0 +1,5 @@
++### ACM
++
++**推荐指数：T0**
++
++强烈推荐！强烈推荐！强烈推荐！
+\ No newline at end of file
+Index: docs/everything_everywhere_all_at_sof/CS书籍推荐与锐评.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/everything_everywhere_all_at_sof/CS书籍推荐与锐评.md b/docs/everything_everywhere_all_at_sof/CS书籍推荐与锐评.md
+new file mode 100644
+--- /dev/null	(date 1687938988541)
++++ b/docs/everything_everywhere_all_at_sof/CS书籍推荐与锐评.md	(date 1687938988541)
+@@ -0,0 +1,88 @@
++### 介绍
++
++适合 GDUFE 宝宝体质的 CS 相关书籍推荐！（图书馆均可借阅）
++
++对于我们 GDUFE 宝宝而言，大部分同学都有着最基础的数学基础和英语能力，但是也考虑到很多同学对于技术书籍的阅读还是比较摸不着头脑（洋文书更是罪加一等），因此对于大部分书籍分开了中英文版的推荐。
++
++当然，推荐是红榜，那么不推荐就是黑榜了，这些黑榜上的书如果没有必要（比如做必须完成的作业之外）就尽可能不要看了，读起来不仅仅是痛苦，而且你在痛苦中根本学不到任何东西——学习从来也不是”吃亏是福“的过程。
++
++### 数学
++
++与 CS 相关的数学领域大致可以分为以下几种，作为本科生需要接触到的一些领域如下：
++
++1. 高等数学（其实最好叫微积分，包括一元微积分和多元微积分）
++2. 线性代数
++3. 概率论
++4. 数理统计
++5. 信息论
++
++#### 推荐
++
++1. **线性代数**相关
++
++   Interactive Linear Algebra：https://www.textbooks.math.gatech.edu/ila/overview.html
++
++
++
++
++
++### Data Structure / Algorithm
++
++数据结构
++
++#### 推荐
++
++1. 《数据结构》（清华大学，邓俊辉）
++2. 
++
++
++
++### 计算机系统
++
++
++
++#### 推荐
++
++1. 《深入理解计算机系统》
++2. 
++
++### 计算机网络
++
++
++
++#### 推荐
++
++1. 《计算机网络》
++
++
++
++### 数据库原理 / SQL
++
++
++
++#### 推荐
++
++1. **SQL**，《》
++
++### Java
++
++不太了解，待测
++
++### 前端
++
++不太了解，待写
++
++### Machine Learning / Data Science 相关
++
++如果你有兴趣研究 Machine Learning 相关的内容，而又苦于没有人解答你的问题，可以联系邮箱 flandre-scarlet@student.gdufe.edu.cn ，我会尽自己所能回答你的问题！
++
++在本科阶段，由于我校稀烂的课程设计和教师水平（这里不包括肖银皓在内的一小部分优秀老师），并不推荐现在阅读大家熟知的西瓜书（周志华老师的那本《机器学习》），又或者是一些需要较深厚数学知识的书籍，接下来推荐的书籍将会从易到难地介绍一些 Machine Learning 领域中较为优秀的书籍，这些书籍大部分都是不涉及过于艰深的数学推导（当然，你至少得会求个偏导、做个矩阵乘法…如果这点知识都不会的话请回去恶补一下基础数学）以及 tricky 的 Python 用法的（你得知道一些最基础的 Python 语法、Jupyter Notebook 的使用等），因此可以放心食用！
++
++接下来就按阅读难度升序排列推荐一部分书籍：
++
++|        书名        |   作者   |  索书号   | 阅读难度 |     领域     |                         简单锐评一下                         |
++| :----------------: | :------: | :-------: | :------: | :----------: | :----------------------------------------------------------: |
++| 白话机器学习的数学 | 立石贤吾 | TP181/135 |  :star:  | 机器学习基础 | 阅读门槛非常低的数学书，有轻度代码，手把手推导各种公式！（Github） |
++|                    |          |           |          |              |                                                              |
++|                    |          |           |          |              |                                                              |
++
+Index: docs/sof_student_experience/exp1_19计实.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/sof_student_experience/exp1_19计实.md b/docs/sof_student_experience/exp1_19计实.md
+new file mode 100644
+--- /dev/null	(date 1687938988550)
++++ b/docs/sof_student_experience/exp1_19计实.md	(date 1687938988550)
+@@ -0,0 +1,4 @@
++### 基础介绍
++
++19 级毕业生
++
+Index: docs/sof_student_experience/README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/sof_student_experience/README.md b/docs/sof_student_experience/README.md
+new file mode 100644
+--- /dev/null	(date 1687938988553)
++++ b/docs/sof_student_experience/README.md	(date 1687938988553)
+@@ -0,0 +1,10 @@
++**我们需要你的经验！**
++
++如果您满足：
++
++1. 上岸高贵的 CS 名校（最好是比 GDUFE 高级多一点的）
++2. 拿到高端的 OFFER
++3. 有强力代码经验
++4. 卷 GPA 的老铁（总成绩前 5 % / 单科专业第一 / 满分 / 各核心科目高分选手）
++
++请将您的经验投稿至 cs_survive_gdufe@outlive.com, 或者直接投稿
+\ No newline at end of file
+diff --git a/GDUFE_Info/README.md b/GDUFE_Info/README.md
+deleted file mode 100644
+diff --git a/Class_Info/课程推荐与锐评.md b/Class_Info/课程推荐与锐评.md
+deleted file mode 100644
+diff --git a/GDUFE_Info/佛山校区吃饭指南.md b/GDUFE_Info/佛山校区吃饭指南.md
+deleted file mode 100644
+diff --git a/GDUFE_Info/基本名词介绍.md b/GDUFE_Info/基本名词介绍.md
+deleted file mode 100644
+diff --git a/GDUFE_Info/关于实习.md b/GDUFE_Info/关于实习.md
+deleted file mode 100644
+diff --git a/docs/everything_everywhere_all_at_sof/信息学院七宗罪.md b/docs/everything_everywhere_all_at_sof/信息学院七宗罪.md
+new file mode 100644
+diff --git a/docs/gdufe_infomation/佛山校区吃饭指南.md b/docs/gdufe_infomation/佛山校区吃饭指南.md
+new file mode 100644
+diff --git a/docs/gdufe_infomation/基本名词介绍.md b/docs/gdufe_infomation/基本名词介绍.md
+new file mode 100644
+diff --git a/docs/gdufe_infomation/README.md b/docs/gdufe_infomation/README.md
+new file mode 100644
+diff --git a/docs/gdufe_infomation/关于实习.md b/docs/gdufe_infomation/关于实习.md
+new file mode 100644
+diff --git a/docs/everything_everywhere_all_at_sof/课程推荐与锐评.md b/docs/everything_everywhere_all_at_sof/课程推荐与锐评.md
+new file mode 100644
