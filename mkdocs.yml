@@ -57,8 +57,7 @@ theme:
 # Plugins
 plugins:
   - tags
-  - search:
-      lang: zh
+  - search
   - git-revision-date-localized:
       enable_creation_date: true
 
@@ -122,3 +121,7 @@ nav:
       - 图书馆与借书: gdufe-information/图书馆与借书.md
       - 素拓: gdufe-information/素拓.md
       - GPA、保研和考研: gdufe-information/GPA、保研和考研.md
+      - 奖学金: gdufe-information/奖学金.md
+      - 就业: gdufe-information/就业.md
+  - 经验之谈:
+      - 雨伞: student-experience/index.md
