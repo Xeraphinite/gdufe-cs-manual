@@ -1,11 +1,24 @@
+# Site
 site_name: 广财信息学院生存指南
+site_url: https://xeraphinite.github.io/Survive_CS_GDUFE/
+site_description: 烂尾楼下，学生的自救与苟延残喘
 
+# Repository
+repo_name: Xeraphinite/Survive_CS_GDUFE
+repo_url: https://github.com/Xeraphinite/Survive_CS_GDUFE
+
+# Theme Configuration
+theme:
+  name: material
+  language: zh
+
+# Page Tree
 nav:
   - GDUFE 信息学院生存指南: index.md
   - 瞬息全信院:
       - ACM 基本介绍: ACM.md
       - CS 书籍推荐与锐评: CS书籍推荐与锐评.md
-
-theme:
-    name: material
-    language: zh
+  - 宇宙财介绍:
+      - 佛山校区吃饭指南: 佛山校区吃饭指南.md
+      - 广州校区吃饭指南: 广州校区吃饭指南.md
+      - 关于 GPA、保研和考研: 关于GPA、保研和考研.md
