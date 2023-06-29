@@ -1,14 +1,14 @@
 # Site
 site_name: 广财信息学院生存指南
-site_url: https://xeraphinite.github.io/Survive_CS_GDUFE/
+site_url: https://xeraphinite.github.io/gdufe-cs-manual
 site_description: 烂尾楼下，学生的自救与苟延残喘
 
 # Repository
-repo_name: Xeraphinite/Survive_CS_GDUFE
-repo_url: https://github.com/Xeraphinite/Survive_CS_GDUFE
+repo_name: gdufe-cs-manual
+repo_url: https://github.com/Xeraphinite/gdufe-cs-manual
 
 # Copyright
-copyright: Copyright &copy; 2022-2023 SOF_Vanquishers
+copyright: Copyright &copy; 2022-2023 SOF-Vanquishers
 
 #
 
@@ -21,7 +21,7 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: white
-      accent: red
+      accent: teal
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
@@ -29,8 +29,8 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
-      accent: blue
+      primary: black
+      accent: teal
       toggle:
         icon: material/weather-night
         name: Switch to light mode
@@ -46,10 +46,15 @@ theme:
     - navigation.index
     - navigation.top
     - navigation.footer
+    - search.suggest
+    - search.highlight
 
 # Plugins
 plugins:
   - tags
+  - search:
+      lang: zh
+
 
 
 # Markdown Extensions
