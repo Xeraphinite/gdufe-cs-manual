@@ -4,17 +4,22 @@ site_url: https://xeraphinite.github.io/gdufe-cs-manual
 site_description: 烂尾楼下，学生的自救与苟延残喘
 
 # Repository
-repo_name: gdufe-cs-manual
+repo_name: Xeraphinite/gdufe-cs-manual
 repo_url: https://github.com/Xeraphinite/gdufe-cs-manual
 
 # Copyright
 copyright: Copyright &copy; 2022-2023 SOF-Vanquishers
 
-#
+# Social Media
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Xeraphinite/
 
 # Theme Configuration
 theme:
   name: material
+  custom_dir: overrides
   language: zh
   palette:
     # Palette toggle for light mode
@@ -54,6 +59,8 @@ plugins:
   - tags
   - search:
       lang: zh
+  - git-revision-date-localized:
+      enable_creation_date: true
 
 
 
@@ -98,10 +105,10 @@ markdown_extensions:
 nav:
   - GDUFE 信息学院生存指南: index.md
   - 瞬息全信院:
-      - ACM 基本介绍: everything_everywhere_all_at_sof/ACM.md
-      - CS 书籍推荐与锐评: everything_everywhere_all_at_sof/CS书籍推荐与锐评.md
+      - ACM 基本介绍: everything-everywhere-all-at-sof/ACM.md
+      - CS 书籍推荐与锐评: everything-everywhere-all-at-sof/CS书籍推荐与锐评.md
   - 宇宙财介绍:
-      - 宇宙财基本介绍: gdufe_information/广财的基本介绍.md
-      - 佛山校区吃饭指南: gdufe_information/佛山校区吃饭指南.md
-      - 广州校区吃饭指南: gdufe_information/广州校区吃饭指南.md
-      - 关于 GPA、保研和考研: gdufe_information/关于GPA、保研和考研.md
+      - 宇宙财基本介绍: gdufe-information/广财的基本介绍.md
+      - 佛山校区吃饭指南: gdufe-information/佛山校区吃饭指南.md
+      - 广州校区吃饭指南: gdufe-information/广州校区吃饭指南.md
+      - 关于 GPA、保研和考研: gdufe-information/关于GPA、保研和考研.md
