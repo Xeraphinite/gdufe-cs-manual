@@ -105,10 +105,12 @@ markdown_extensions:
 nav:
   - GDUFE 信息学院生存指南: index.md
   - 瞬息全信院:
+      - 信息学院基本介绍: everything-everywhere-all-at-sof/index.md
       - ACM 基本介绍: everything-everywhere-all-at-sof/ACM.md
       - CS 书籍推荐与锐评: everything-everywhere-all-at-sof/CS书籍推荐与锐评.md
+      - 老师推荐与锐评: everything-everywhere-all-at-sof/老师推荐与锐评.md
   - 宇宙财介绍:
-      - 宇宙财基本介绍: gdufe-information/广财的基本介绍.md
+      - 宇宙财基本介绍: gdufe-information/index.md
       - 佛山校区吃饭指南: gdufe-information/佛山校区吃饭指南.md
       - 广州校区吃饭指南: gdufe-information/广州校区吃饭指南.md
       - 关于 GPA、保研和考研: gdufe-information/关于GPA、保研和考研.md

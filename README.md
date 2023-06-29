@@ -8,7 +8,7 @@
 
 而如果你是我校研究生, 或者你已经大二、大三，甚至是大四准备毕业了，也欢迎你为这个仓库进行贡献！（具体的贡献方式请查看 Wiki）
 
-联系我: (Email) flandre-scarlet@student.gdufe.edu.cn
+联系我: flandre-scarlet@student.gdufe.edu.cn
 
 ### 初心
 

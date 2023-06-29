@@ -1,1 +1,2 @@
+mkdocs-material
 git-revision-date-localized
