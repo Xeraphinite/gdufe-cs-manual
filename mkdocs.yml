@@ -68,8 +68,7 @@ markdown_extensions:
   - footnotes
   - meta
   - toc:
-      permalink: ""
-      slugify: !!python/name:pymdownx.slugs.uslugify
+      permalink: true
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.caret
