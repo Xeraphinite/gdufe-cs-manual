@@ -1,14 +1,14 @@
 # Site
 site_name: 广财信息学院生存指南
 site_url: https://xeraphinite.github.io/gdufe-cs-manual
-site_description: 烂尾楼下，学生的自救与苟延残喘
+site_description: 烂尾楼下，学生的苟延残喘与自救
 
 # Repository
 repo_name: Xeraphinite/gdufe-cs-manual
 repo_url: https://github.com/Xeraphinite/gdufe-cs-manual
 
 # Copyright
-copyright: Copyright &copy; 2022-2023 SOF-Vanquishers
+copyright: Copyright &copy; 2023-present SOF-Vanquishers
 
 # Social Media
 extra:
@@ -62,8 +62,6 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
 
-
-
 # Markdown Extensions
 markdown_extensions:
   - admonition
@@ -105,12 +103,22 @@ markdown_extensions:
 nav:
   - GDUFE 信息学院生存指南: index.md
   - 瞬息全信院:
-      - 信息学院基本介绍: everything-everywhere-all-at-sof/index.md
-      - ACM 基本介绍: everything-everywhere-all-at-sof/ACM.md
+      - 信息学院介绍: everything-everywhere-all-at-sof/index.md
+      - ACM 介绍: everything-everywhere-all-at-sof/ACM.md
       - CS 书籍推荐与锐评: everything-everywhere-all-at-sof/CS书籍推荐与锐评.md
       - 老师推荐与锐评: everything-everywhere-all-at-sof/老师推荐与锐评.md
+      - 课程推荐与锐评: everything-everywhere-all-at-sof/课程推荐与锐评.md
+      - 网络资源推荐与锐评: everything-everywhere-all-at-sof/网络资源推荐与锐评.md
+      - 社团推荐与锐评: everything-everywhere-all-at-sof/社团推荐与锐评.md
+      - 速通毕业设计: everything-everywhere-all-at-sof/速通毕业设计.md
   - 宇宙财介绍:
       - 宇宙财基本介绍: gdufe-information/index.md
       - 佛山校区吃饭指南: gdufe-information/佛山校区吃饭指南.md
       - 广州校区吃饭指南: gdufe-information/广州校区吃饭指南.md
-      - 关于 GPA、保研和考研: gdufe-information/关于GPA、保研和考研.md
+      - 黑话指南: gdufe-information/黑话指南.md
+      - 上课: gdufe-information/上课.md
+      - 选课: gdufe-information/选课.md
+      - 实习: gdufe-information/实习.md
+      - 图书馆与借书: gdufe-information/图书馆与借书.md
+      - 素拓: gdufe-information/素拓.md
+      - GPA、保研和考研: gdufe-information/GPA、保研和考研.md
