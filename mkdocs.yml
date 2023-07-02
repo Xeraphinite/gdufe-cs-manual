@@ -125,3 +125,5 @@ nav:
       - 就业: gdufe-information/就业.md
   - 经验之谈:
       - 雨伞: student-experience/index.md
+  - 帮帮我们:
+      - 如何为本项目做出贡献: contribution/index.md
