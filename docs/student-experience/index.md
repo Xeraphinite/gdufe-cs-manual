@@ -7,4 +7,4 @@
 3. 有强力代码经验
 4. 卷 GPA 的老铁（总成绩前 5 % / 单科专业第一 / 满分 / 各核心科目高分选手）
 
-请将您的经验投稿至 cs_survive_gdufe@outlive.com, 或者直接投稿
+请将您的经验投稿至 <cs_survive_gdufe@outlive.com>.
